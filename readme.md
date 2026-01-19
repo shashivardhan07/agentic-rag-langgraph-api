@@ -71,4 +71,6 @@ agentic-rag-langgraph-api/
 Create a `.env` file using the template below:
 
 LLM_API_KEY=your_llm_api_key
+
 VECTOR_DB_API_KEY=your_vector_db_key
+
